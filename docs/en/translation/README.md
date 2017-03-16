@@ -4,11 +4,11 @@ _If you're a developer, check out the [code guide](https://github.com/loomio/loo
 
 ## Contents
 
-1. [**Getting Started**](https://github.com/loomio/loomio/wiki/Translation#getting-started)
+1. [**Getting Started**](#getting-started)
   1. join an existing language
   2. create a new language
   3. set a fall-back language (optional) 
-2. [**How to translate**](https://github.com/loomio/loomio/wiki/Translation#how-to-translate)
+2. [**How to translate**](#how-to-translate)
   1. the basics
   2. more advanced translation
   3. working within a community of translators
